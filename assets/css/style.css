@@ -277,5 +277,40 @@ li {
 /* -------------------- SKILLS */
 
 /* -------------------- CONTACT */
+
 /* -------------------- FOOTER */
+
+.footer-area {
+    background: #676767;
+    padding: 30px 0px;
+}
+
+.footer-area p {
+    margin-bottom: 0;
+    font-size: 14px;
+    color: #fff;
+}
+
+.footer-social-link {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.footer-social-link ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.footer-social-link ul li {
+    display: inline-block;
+    margin: 0px 10px;
+    font-size: 30px;
+}
+
+.footer-social-link ul li a {
+    display: block;
+    color:  #71c9ce;
+}
+
 /* -------------------- MEDIA QUERIES */
