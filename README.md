@@ -4,7 +4,7 @@ User-Centric Frontend Development Milestone Project- Code Institute
 
 This website is my portfolio, a platform to showcase my best projects based on different front and backend technologies as I learn.
 
-![Am-I-Responsive](assets/images/am-i-responsive.jpg)
+[Am-I-Responsive](assets/images/am-i-responsive.jpg)
 
 A demo of the website can be found [here]( ).
 
@@ -92,7 +92,7 @@ The wireframes were designed using [Balsamiq](https://balsamiq.com/). They are a
 - [Google Fonts](https://fonts.google.com/) - used to provide the fonts Poppins for most of the website and Sacramento cursive for the name logo.
 - [Font Awesome](https://fontawesome.com/) - used the font awesome icons to style the information and the links in the nav bar and footer.
 - [Favicon](https://www.favicon-generator.org//) - used to create the icon for the tab.
-- [Pexels][https://www.pexels.com/] - used to get images for the website.
+- [Pexels](https://www.pexels.com/) - used to get images for the website.
 - [Am I Responsive?](http://ami.responsivedesign.is/) - used to show in a quick visual way the responsiveness of the site.
 - [Colorhunt](https://colorhunt.co/palette/42191) - for color inspiration.
 
@@ -134,9 +134,9 @@ To clone this project from GitHub:
 ## 6. Credits
 
 ### 6.1. Content
-All the text in this website was made by myself for this milestone project. 
+All the text in this website was made by myself. 
 
-I took inspiration from [Haley Schafer](https://www.haleyschafer.com/).
+For this first milestone project I took inspiration from the following websites :[Haley Schafer](https://www.haleyschafer.com/) and [Seán Halpin](https://www.seanhalpin.io/).
 
 ### 6.2. Media
 
