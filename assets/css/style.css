@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
 
@@ -27,7 +28,6 @@ h6 {
 a {
     text-decoration: none;
     -webkit-transition: all 0.4s;
-    -webkit-transition: all 0.2s;
     transition: all 0.2s;
     color: #676767;
 }
@@ -60,6 +60,11 @@ li {
     padding: 0;
 }
 
+fieldset {
+    border: 0 none;
+    margin: 0 auto;
+    padding: 0;
+}
 /* -------------------- NAVBAR */
 
 .jumbotron{
@@ -67,6 +72,42 @@ li {
     margin: 0;
     background: transparent;
     height: 100%;
+}
+
+.no-padding {
+    padding: 0
+}
+
+.section-padding {
+    padding: 120px 0px;
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 60px;
+}
+.section-title h2 {
+	margin-top: 0;
+	font-weight: 900;
+	text-transform: capitalize;
+	color: #676767;
+	position: relative;
+}
+.section-title h2::before {
+	position: absolute;
+	top: 40px;
+	left: 50%;
+	height: 2px;
+	width: 30px;
+	content: "";
+	background: #676767;
+	margin-left: -15px;
+}
+
+.section-title p {
+    font-weight: 300;
+    font-size: 18px;
+    margin-top: 30px;
 }
 
 .welcome-image-area {
@@ -88,6 +129,7 @@ li {
     content: "";
     z-index: -1;
 }
+
 .display-table {
     display: table;
     width: 100%;
@@ -102,6 +144,7 @@ li {
 .header-text {
    margin-top: 50px;
 }
+
 .header-text h2 {
     color: #fff;
     font-size: 20px;
@@ -120,7 +163,7 @@ li {
 .header-text a {
     display: inline-block;
     background: #fff;
-    color: #676767;
+    color:#676767;
     padding: 10px 20px;
     border-radius: 30px;
     margin-top: 30px;
@@ -147,13 +190,13 @@ li {
 
 .logo a {
     display: block;
-    color: #71c9ce;
+    color: #0b858d;
     font-size: 40px;
     font-family: 'Sacramento', cursive;
 }
 
 .mainmenu .navbar-nav li a {
-    color: #676767;
+    color:#676767;
     text-transform: uppercase;
     font-size: 16px;
     letter-spacing: 1px;
@@ -189,7 +232,7 @@ li {
 .menu-bg {
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
-    background: #676767;
+    background: 676767;
 }
 
 .menu-bg .logo {
@@ -216,7 +259,7 @@ li {
     margin-bottom: 10px;
     font-weight: 900;
     text-transform: uppercase;
-    color: #676767;
+    color: 676767;
 }
 
 .about-text h3 {
@@ -227,7 +270,7 @@ li {
     text-transform: capitalize;
     display: inline-block;
     padding: 2px 10px;
-    background: #676767;
+    background:#676767;
     color: #fff;
 }
 
@@ -283,8 +326,7 @@ li {
     background-size: cover;
     z-index: 1;
 }
-
-
+ 
 .skills-area:after {
     position: absolute;
     background: rgba(255, 255, 255, .6);
@@ -303,7 +345,7 @@ li {
 	font-size: 24px;
 }
 
-/* -------------------- CONTACT */
+/* -------------------- CONTACT ME*/
 
 .contact-me-area {
     background-color: #e3fdfd;
@@ -322,7 +364,7 @@ li {
     padding: 5px 0px;
     font-size: 16px;
     line-height: 1.42857143;
-    color:#676767;
+    color: #676767;
     background-color: transparent;
     background-image: none;
     border-radius: 0px;
@@ -332,7 +374,7 @@ li {
 }
 
 .form-control:focus {
-    border-color: #676767;
+    border-color: #000;
     outline: 0;
     box-shadow: none;
 }
@@ -358,7 +400,6 @@ li {
     border: 1px solid #676767;
     color: #676767;
     -webkit-transition: all 0.4s;
-    -webkit-transition: all 0.2s;
     transition: all 0.2s;
 }
 
@@ -403,7 +444,7 @@ li {
 
 .footer-social-link ul li a {
     display: block;
-    color:  #71c9ce;
+    color: #71c9ce;
 }
 
 /* -------------------- MEDIA QUERIES */
@@ -446,9 +487,6 @@ li {
         text-align: center;
     }
     
-    .single-testimonial {
-        padding: 0;
-    }
     .single-portfolio h2 {
 	font-size: 20px;
 }
@@ -462,7 +500,7 @@ li {
 @media only screen and (max-width: 767px) {
     
     .navbar-toggle .icon-bar {
-        background: #000;
+        background: #676767;
     }
     .menu-bg .navbar-toggle .icon-bar {
         background: #fff;
@@ -478,10 +516,10 @@ li {
         padding: 11px 15px;
     }
     .mainmenu .navbar-nav li a:hover {
-        color: #0B858D;
+        color: #71c9ce;
     }
     .menu-bg .mainmenu .navbar-nav li a:hover {
-        color: #0B858D;
+        color: #71c9ce;
     }
     .menu-bg .mainmenu .navbar-nav li a {
         padding: 11px 15px;
@@ -519,4 +557,3 @@ li {
 /* Wide Mobile Layout: 480px. */
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {}
-
