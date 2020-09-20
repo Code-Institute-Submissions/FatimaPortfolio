@@ -4,7 +4,7 @@ User-Centric Frontend Development Milestone Project- Code Institute
 
 This website is my portfolio, a platform to showcase my best projects based on different front and backend technologies as I learn.
 
-[Fatima](testingfiles//amiresponsive.png)
+![Am-I-Responsive](testingfiles/amiresponsive.png)
 
 You can visit the deployed website [here](https://fatimascoding2020.github.io/FatimaPortfolio/).
 
