@@ -35,9 +35,13 @@ My goal was to make a user-friendly portfolio website. I wanted to display my co
 #### 1.3. Wireframes
 The wireframes were designed using [Balsamiq](https://balsamiq.com/). They are accessible from the following links:
 
-|    Desktop   |    Tablet    |    Mobile    |
-|    :----:    |     :----:   |    :----:    |
-|[Home Page](wireframes/Desktop-view/desktop-view.png)|[Home Page](wireframes/Tablet-view/Tablet-view.png)|[Home Page](wireframes/Mobile-view/Mobile-view.png)|
+#### Desktop view
+[Home page](wireframes/Desktop-view/desktop-view.png) |
+#### Tablet view
+[Home page](wireframes/Tablet-view/Tablet-view.png) |
+#### Mobile view
+[Home page](wireframes/Mobile-view/Mobile-view.png) |
+
 
 ---
 
