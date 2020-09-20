@@ -200,7 +200,7 @@ li {
     padding: 30px 15px;
     -webkit-transition: .3s;
     transition: .3s;
-    -moz-transition:: .3s;
+    -moz-transition: .3s;
     font-weight: 600;
 }
 
