@@ -123,7 +123,7 @@ Only one branch has been used for this project.
 To clone this project from GitHub:
 
 1. Under the repository’s name, click **Clone or download**.
-2. In the **Clone with hTTPS** section, copy the given URL.
+2. In the **Clone with HTTPS** section, copy the given URL.
 3. In your IDE of choice, open **Git Bash**.
 4. Change the current working directory to the location where you want the cloned directory to be made.
 5. Type **git clone**, and then paste the URL copied from GitHub.
@@ -134,7 +134,7 @@ To clone this project from GitHub:
 ## 6. Credits
 
 ### 6.1. Content
-All the text in this website was made by myself. 
+The content of this site is written by me. 
 
 For this first milestone project I took inspiration from the following websites :[Haley Schafer](https://www.haleyschafer.com/) and [Seán Halpin](https://www.seanhalpin.io/).
 
