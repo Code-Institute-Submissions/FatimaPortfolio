@@ -29,6 +29,7 @@ a {
     text-decoration: none;
     -webkit-transition: all 0.4s;
     transition: all 0.2s;
+    -moz-transition: all 0.2s;
     color: #676767;
 }
 
@@ -173,6 +174,7 @@ li {
     width: 100%;
     z-index: 9999;
     -webkit-transition: all 0.4s ease-out;
+    -moz-transition: all 0.4s ease-out;
     transition: all 0.4s ease-out;    
     background: #fff;
 }
@@ -198,18 +200,22 @@ li {
     padding: 30px 15px;
     -webkit-transition: .3s;
     transition: .3s;
+    -moz-transition:: .3s;
     font-weight: 600;
 }
+
 .mainmenu .navbar-nav li a i{
     margin-right: 6px;
     color: #71c9ce;
     font-size: 18px;
 }
+
 .mainmenu .navbar-nav li a:hover {
     background: none;
     color: #ccc;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
 }
 
 .nav li a:focus,
@@ -218,6 +224,7 @@ li {
     color: #ccc;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
 }
 
 .navbar {
@@ -227,6 +234,7 @@ li {
 .menu-bg {
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
     background:#676767;
 }
 
@@ -234,6 +242,7 @@ li {
     padding-top: 18px;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
 }
 
 .menu-bg .mainmenu .navbar-nav li a {
@@ -241,6 +250,7 @@ li {
     padding: 20px 15px;
     -webkit-transition: .3s;
     transition: .3s;
+    -moz-transition:.3s;
 }
 
 .menu-bg .mainmenu .navbar-nav li a:hover {
@@ -387,6 +397,7 @@ li {
     font-weight: 600;
     -webkit-transition: .3s;
     transition: .3s;
+    -moz-transition: .3s;
     letter-spacing: 3px;
 }
 
@@ -396,6 +407,7 @@ li {
     color: #676767;
     -webkit-transition: all 0.4s;
     transition: all 0.2s;
+    -moz-transition: all 0.2s;
 }
 
 .btn.active.focus,
