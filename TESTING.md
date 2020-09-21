@@ -13,7 +13,7 @@ The test did not find any errors.
 
 ![CSS Validator](testingfiles/CSSValidation.png)
 
-The validator displayed 1 error related to Bootstrap library https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+The validator did not display any errors.
 
 ## Responsiveness
 
