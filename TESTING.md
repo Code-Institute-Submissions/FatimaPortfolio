@@ -66,3 +66,9 @@ The appearance and responsiveness is good on all browsers.
 
  As a user, I want to easily download the pdf version of the CV.
 - The header and footer both have links.
+
+## Bugs 
+
+One of the major bug I found during the development process was the arrangement of the containers in 'My Work'in iPad and iPad pro views.
+- Ran the code in Atom and fixed the bug by changing the value in col-md in the div class header top area.
+  
