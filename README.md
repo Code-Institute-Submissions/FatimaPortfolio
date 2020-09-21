@@ -72,7 +72,7 @@ The wireframes were designed using [Balsamiq](https://balsamiq.com/). They are a
 
 **Favicon**: allows the user to view the icon on the tab to identify my portfolio website.
 
-### 2.2. Features left to implement in the future
+### 2.2. Features I want to implement in the future
 
 - The form section should submit the forms and send a confirmation email.
 - Add and update more projects and technologies in the future.
