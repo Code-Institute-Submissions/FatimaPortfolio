@@ -11,7 +11,9 @@ The test did not find any errors.
 
 [CSS Validator](https://jigsaw.w3.org/css-validator/) 
 
-The validator displayed 
+![CSS Validator](testingfiles/CSS Validation.png)
+
+The validator displayed 1 error related to [Bootstrap] (https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css)
 
 ## Responsiveness
 
