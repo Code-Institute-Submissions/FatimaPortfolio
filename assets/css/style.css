@@ -27,8 +27,8 @@ h6 {
 
 a {
     text-decoration: none;
-    -webkit-transition: all 0.4s;
-    transition: all 0.2s;
+    /*-webkit-transition: all 0.4s;
+    transition: all 0.2s;*/
     color: #676767;
 }
 
@@ -172,14 +172,14 @@ li {
     top: 0;
     width: 100%;
     z-index: 9999;
-    -webkit-transition: all 0.4s ease-out;
+   /* -webkit-transition: all 0.4s ease-out;*/
     background: #fff;
 }
 
 .logo {
     padding-top: 28px;
-    -webkit-transition: all 0.3s ease-out;
-    transition: all 0.3s ease-out;
+   /* -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;*/
 }
 
 .logo a {
@@ -195,8 +195,8 @@ li {
     font-size: 16px;
     letter-spacing: 1px;
     padding: 30px 15px;
-    -webkit-transition: 0.3s;
-    transition: 0.3s;
+   /* -webkit-transition: 0.3s;
+    transition: 0.3s;*/
     font-weight: 600;
 }
 
@@ -209,16 +209,16 @@ li {
 .mainmenu .navbar-nav li a:hover {
     background: none;
     color: #ccc;
-    -webkit-transition: all 0.3s ease-out;
-    transition: all 0.3s ease-out;
+   /* -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;*/
 }
 
 .nav li a:focus,
 .nav li a:hover {
     background: none;
     color: #ccc;
-    -webkit-transition: all 0.3s ease-out;
-    transition: all 0.3s ease-out;
+    /*-webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;*/
 }
 
 .navbar {
@@ -226,23 +226,23 @@ li {
 }
 
 .menu-bg {
-    -webkit-transition: all 0.3s ease-out;
-    transition: all 0.3s ease-out;
+   /* -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;*/
     background:#676767;
 }
 
 .menu-bg .logo {
     padding-top: 18px;
-    -webkit-transition: all 0.3s ease-out;
-    transition: all 0.3s ease-out;
+   /* -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;*/
 
 }
 
 .menu-bg .mainmenu .navbar-nav li a {
     color: #fff;
     padding: 20px 15px;
-    -webkit-transition: 0.3s;
-    transition: 0.3s;
+   /* -webkit-transition: 0.3s;
+    transition: 0.3s;*/
 }
 
 .menu-bg .mainmenu .navbar-nav li a:hover {
@@ -387,8 +387,8 @@ li {
     border: 1px solid #676767;
     border-radius: 0px;
     font-weight: 600;
-    -webkit-transition: 0.3s;
-    transition: 0.3s;
+    /*-webkit-transition: 0.3s;
+    transition: 0.3s;*/
     letter-spacing: 3px;
 }
 
@@ -396,8 +396,8 @@ li {
     background: #fff;
     border: 1px solid #676767;
     color: #676767;
-    -webkit-transition: all 0.4s;
-    transition: all 0.2s;
+   /* -webkit-transition: all 0.4s;
+    transition: all 0.2s;*/
 }
 
 .btn.active.focus,

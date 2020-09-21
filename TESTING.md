@@ -9,12 +9,11 @@
 The test did not find any errors.
 
 
-
 [CSS Validator](https://jigsaw.w3.org/css-validator/) 
 
 ![CSS Validator]()
 
-### Responsiveness
+## Responsiveness
 
 To test the responsiveness of the website I used the [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) and [Responsive Design Checker](https://www.responsivedesignchecker.com/).
 
