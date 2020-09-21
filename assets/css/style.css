@@ -175,6 +175,7 @@ li {
     z-index: 9999;
     -webkit-transition: all 0.4s ease-out;
     -moz-transition: all 0.4s ease-out;
+    -o-transition: all 0.4s ease-in-out;
     transition: all 0.4s ease-out;    
     background: #fff;
 }
@@ -183,6 +184,8 @@ li {
     padding-top: 28px;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
+    -o-transition: all 0.2s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
 }
 
 .logo a {
@@ -198,9 +201,10 @@ li {
     font-size: 16px;
     letter-spacing: 1px;
     padding: 30px 15px;
-    -webkit-transition: .3s;
-    transition: .3s;
-    -moz-transition: .3s;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
     font-weight: 600;
 }
 
@@ -216,6 +220,7 @@ li {
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-in-out;
 }
 
 .nav li a:focus,
@@ -225,6 +230,7 @@ li {
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-in-out;
 }
 
 .navbar {
@@ -235,6 +241,7 @@ li {
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-in-out;
     background:#676767;
 }
 
@@ -243,14 +250,16 @@ li {
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-in-out;
 }
 
 .menu-bg .mainmenu .navbar-nav li a {
     color: #fff;
     padding: 20px 15px;
-    -webkit-transition: .3s;
-    transition: .3s;
-    -moz-transition:.3s;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.2s;
 }
 
 .menu-bg .mainmenu .navbar-nav li a:hover {
@@ -395,9 +404,9 @@ li {
     border: 1px solid #676767;
     border-radius: 0px;
     font-weight: 600;
-    -webkit-transition: .3s;
-    transition: .3s;
-    -moz-transition: .3s;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    -moz-transition: 0.3s;
     letter-spacing: 3px;
 }
 
@@ -408,6 +417,7 @@ li {
     -webkit-transition: all 0.4s;
     transition: all 0.2s;
     -moz-transition: all 0.2s;
+    -o-transition: all 0.2s;
 }
 
 .btn.active.focus,
