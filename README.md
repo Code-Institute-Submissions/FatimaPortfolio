@@ -90,11 +90,6 @@ The wireframes were designed using [Balsamiq](https://balsamiq.com/). They are a
 
 ### Frameworks, Libraries and Programs
 - [Bootstrap](https://getbootstrap.com/) - used to create the layout of the project.
-- [Bootstrap](https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css)
-- [Bootstrap](https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css)
-- [Bootstrap](https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css)
-- [Bootstrap](https://code.jquery.com/jquery-3.5.1.min.js)
-- [Bootstrap](https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js)
 - [Balsamiq](https://balsamiq.com/) - used to create my project's wireframes.
 - [Gitpod](https://gitpod.io/) - used to develop the website.
 - [GitHub](https://github.com/) - used to host the project.
@@ -104,7 +99,6 @@ The wireframes were designed using [Balsamiq](https://balsamiq.com/). They are a
 - [Pexels](https://www.pexels.com/) - used to get images for the website.
 - [Am I Responsive?](http://ami.responsivedesign.is/) - used to show in a quick visual way the responsiveness of the site.
 - [Colorhunt](https://colorhunt.co/palette/42191) - for color inspiration.
-
 
 
 ## 4. Testing
